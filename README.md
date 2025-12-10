@@ -213,7 +213,7 @@ Alle Apps wurden in Zusammenarbeit mit **Claude AI von Anthropic** entwickelt:
 
 ## 📧 Kontakt
 
-**Entwickelt von:** Arash Haghighat  
+**Entwickelt von:** Arash Guitoo  
 **Powered by:** [Claude AI (Anthropic)](https://www.anthropic.com/claude)
 
 ## 📜 Lizenz
